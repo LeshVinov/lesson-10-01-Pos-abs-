@@ -52,22 +52,22 @@ h2 {
 
 .box-1 {
     position: absolute;
-    left: 23%;
+    left: 20%;
 }
 
 .box-2 {
     position: absolute;
-    left: 37%
+    left: 35%
 }
 
 .box-3 {
     position: absolute;
-    right: 37%;
+    right: 35%;
 }
 
 .box-4 {
     position: absolute;
-    right: 23%;
+    right: 20%;
 }
 
 .product-img {
